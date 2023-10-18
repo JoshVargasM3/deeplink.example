@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.go_pool",
+               "sha256_cert_fingerprints": ["B7:33:01:2F:7F:60:03:EC:D5:CF:0F:2E:0C:2C:DC:69:33:39:77:4A:A4:5D:15:4F:90:CC:DF:A4:A3:C2:1E:F7"] }
+}]
